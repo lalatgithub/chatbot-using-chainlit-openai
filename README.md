@@ -11,3 +11,14 @@
 
 * Chainlit
 * OpenAI
+
+### Run Application
+```
+pip install -r requirements.txt
+```
+
+```
+chainlit run app.py -w
+```
+
+visit http://localhost:8000 and Enjoy your MEAL!
